@@ -1,7 +1,7 @@
 {
-    "versao":  "0.3.0",
-    "notas":  "",
+    "versao":  "0.3.1",
+    "notas":  "Organizar: mídia offline vai para o bin Arquivos faltando. Nos Ajustes do Organizar: Numerar os bins e Apagar bins vazios no final.",
     "download":  null,
-    "pacote":  "https://raw.githubusercontent.com/matsuo-sync/matsuo-lab-versoes/main/pacotes/MatsuoLab-0.3.0.zip",
-    "sha256":  "2e58a6c1fca4aaa0eb3746e98aae63e7deb6e75ec6c75735a8e912657ce98491"
+    "pacote":  "https://raw.githubusercontent.com/matsuo-sync/matsuo-lab-versoes/main/pacotes/MatsuoLab-0.3.1.zip",
+    "sha256":  "cb0f472bf3bf8bc877e881f43c893761909418053a02b47268e6dbffd51b291a"
 }
