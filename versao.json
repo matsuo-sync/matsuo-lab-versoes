@@ -1,7 +1,7 @@
 {
-    "versao":  "0.3.1",
-    "notas":  "Organizar: mídia offline vai para o bin Arquivos faltando. Nos Ajustes do Organizar: Numerar os bins e Apagar bins vazios no final.",
+    "versao":  "0.3.2",
+    "notas":  "A versão do painel agora aparece no canto dos Ajustes. O aviso de versão nova ficou discreto: um pontinho na engrenagem e \u0027Nova: X\u0027 nos Ajustes.",
     "download":  null,
-    "pacote":  "https://raw.githubusercontent.com/matsuo-sync/matsuo-lab-versoes/main/pacotes/MatsuoLab-0.3.1.zip",
-    "sha256":  "cb0f472bf3bf8bc877e881f43c893761909418053a02b47268e6dbffd51b291a"
+    "pacote":  "https://raw.githubusercontent.com/matsuo-sync/matsuo-lab-versoes/main/pacotes/MatsuoLab-0.3.2.zip",
+    "sha256":  "66c15e2114c290e8105f72d27c49e97754a7c159c836c7f18f9a1930b6166acc"
 }
