@@ -1,1 +1,7 @@
-{ "versao": "0.3.0", "notas": "", "download": null }
+{
+    "versao":  "0.3.0",
+    "notas":  "",
+    "download":  null,
+    "pacote":  "https://raw.githubusercontent.com/matsuo-sync/matsuo-lab-versoes/main/pacotes/MatsuoLab-0.3.0.zip",
+    "sha256":  "2e58a6c1fca4aaa0eb3746e98aae63e7deb6e75ec6c75735a8e912657ce98491"
+}
